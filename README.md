@@ -8,11 +8,11 @@ ID: CT08DS1657
 
 DOMAIN: UI/UX DESIGN
 
-DURATION: JUNE TO ULY 2024
+DURATION: JUNE TO JULY 2024
 
 MENTOR: SARAVANI
 
-PROJECT:BeEase a tutor booking application with wierframe
+PROJECT: BeEase a tutor booking application with wierframe
 
 ![WhatsApp Image 2024-06-22 at 8 22 15 AM](https://github.com/Prajwal1100/CODETECH-Task1/assets/149360097/3d2e32ff-002b-4336-ac65-6d3a3036447e)
 ![WhatsApp Image 2024-06-22 at 8 22 16 AM](https://github.com/Prajwal1100/CODETECH-Task1/assets/149360097/27de8664-6464-44bf-a581-564c2b0f7a64)
