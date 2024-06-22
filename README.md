@@ -12,8 +12,6 @@ DURATION: JUNE TO ULY 2024
 
 MENTOR: SARAVANI
 
-OVERVIEW OF THE PROJECT
-
 PROJECT:BeEase a tutor booking application with wierframe
 
 ![WhatsApp Image 2024-06-22 at 8 22 15 AM](https://github.com/Prajwal1100/CODETECH-Task1/assets/149360097/3d2e32ff-002b-4336-ac65-6d3a3036447e)
